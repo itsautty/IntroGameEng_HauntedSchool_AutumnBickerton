@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: NSCC-Autumn Bickerton
   productName: IntroGameEng_HauntedSchool_AutumnBickerton
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -141,7 +141,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 0.1.0
+  bundleVersion: 1.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -920,11 +920,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: d2afebb2-7c0b-4f06-823c-3c4dc24b3c76
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: IntroGameEng_HauntedSchool_AutumnBickerton
+  organizationId: auttyandhammy
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
